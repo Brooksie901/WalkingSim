@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Levels/Playground.umap",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/Interface/BPI_ChangeGameState.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/BP_WalkingGamemode.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/Managers/BP_PlayerManager.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Character/BP_WalkingCharacter.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/FirstPerson/Blueprints/BP_WalkingCharacterNew.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Character/BP_WalkingCharacterNew.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/BP_Pillar.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/BP_Trigger.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/Interface/BPI_PillarTrigger.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/Managers/BP_PuzzleManager.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/BP_AirPillar.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/BP_WaterPillar.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/BP_ForestPillar.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/Managers/BP_Manager.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/BP_RockPillar.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/BP_WalkingController.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/Interface/BPI_Initalize.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/Managers/Interfaces/BPI_InitalizePuzzles.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/Enum_GameStates.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/Enum_PillarType.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/BP_WalkingGameState.uasset"
+			]
+		}
+	]
+}
