@@ -10,8 +10,6 @@
 				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/BP_WalkingGamemode.uasset",
 				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/Managers/BP_PlayerManager.uasset",
 				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Character/BP_WalkingCharacter.uasset",
-				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/FirstPerson/Blueprints/BP_WalkingCharacterNew.uasset",
-				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Character/BP_WalkingCharacterNew.uasset",
 				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/BP_Pillar.uasset",
 				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/BP_Trigger.uasset",
 				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/Interface/BPI_PillarTrigger.uasset",
@@ -27,6 +25,16 @@
 				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/Managers/Interfaces/BPI_InitalizePuzzles.uasset",
 				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/Enum_GameStates.uasset",
 				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/PillarPuzzle/Enum_PillarType.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/Triggers/BP_BaseTrigger.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/Triggers/BP_PillarTrigger.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Character/Components/COM_Interaction.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/Triggers/Interface/BPI_Interaction.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/FirstPerson/Input/Actions/IA_Interact.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/FirstPerson/Input/IMC_Default.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Character/BP_WalkingCharacterNew.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Blueprints/Triggers/BP_Trigger.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Character/BP_WalkingCharacte.uasset",
+				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/FirstPerson/Blueprints/BP_WalkingCharacterNew.uasset",
 				"C:/Users/danjb/Desktop/Walking Game/WalkingSim/EveryoneHasGone/Content/WalkingGame/Modes/BP_WalkingGameState.uasset"
 			]
 		}
